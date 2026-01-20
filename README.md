@@ -1,5 +1,3 @@
-
-```markdown
 # 📚 Publication Assisting Agent (LangGraph + FastAPI)
 
 This repository contains the **FastAPI backend** powered by **LangGraph** and **LangChain**, deployed on Hugging Face Spaces.  
@@ -17,7 +15,7 @@ It processes uploaded `.txt` files using a Groq API key and generates structured
 
 👉 Hugging Face Space: [Sujith2121/publication-assisting-agent](https://huggingface.co/spaces/Sujith2121/publication-assisting-agent)  
 👉 Swagger Docs: [hf.space/docs](https://Sujith2121-publication-assisting-agent.hf.space/docs)
-
+👉 Streamlit App: (https://publishing-assisting-agent.streamlit.app/)
 ---
 
 ## 📂 Project Structure
